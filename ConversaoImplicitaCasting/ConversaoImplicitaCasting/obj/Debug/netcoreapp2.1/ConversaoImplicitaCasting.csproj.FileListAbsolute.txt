@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\ConversaoImplicitaCasting.deps.json
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\ConversaoImplicitaCasting.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\ConversaoImplicitaCasting.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\ConversaoImplicitaCasting.dll
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\ConversaoImplicitaCasting.pdb
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\ConversaoImplicitaCasting.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\ConversaoImplicitaCasting.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\ConversaoImplicitaCasting.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\ConversaoImplicitaCasting.dll
+C:\Users\Cleyton.peters\source\repos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\ConversaoImplicitaCasting.pdb

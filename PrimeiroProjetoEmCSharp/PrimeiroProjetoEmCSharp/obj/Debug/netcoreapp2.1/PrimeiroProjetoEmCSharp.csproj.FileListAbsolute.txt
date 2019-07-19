@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.deps.json
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.dll
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.pdb
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.dll
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\netcoreapp2.1\PrimeiroProjetoEmCSharp.pdb

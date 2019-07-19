@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.deps.json
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.dll
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.pdb
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.dll
+C:\Users\Cleyton.peters\source\repos\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.pdb
