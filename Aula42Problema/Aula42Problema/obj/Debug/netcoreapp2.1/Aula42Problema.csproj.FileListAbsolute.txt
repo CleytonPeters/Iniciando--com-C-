@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\obj\Debug\netcoreapp2.1\Aula42Problema.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\obj\Debug\netcoreapp2.1\Aula42Problema.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\obj\Debug\netcoreapp2.1\Aula42Problema.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\obj\Debug\netcoreapp2.1\Aula42Problema.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\bin\Debug\netcoreapp2.1\Aula42Problema.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\bin\Debug\netcoreapp2.1\Aula42Problema.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\bin\Debug\netcoreapp2.1\Aula42Problema.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\bin\Debug\netcoreapp2.1\Aula42Problema.dll
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\bin\Debug\netcoreapp2.1\Aula42Problema.pdb
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\obj\Debug\netcoreapp2.1\Aula42Problema.dll
+C:\Users\Cleyton.peters\source\repos\Aula42Problema\Aula42Problema\obj\Debug\netcoreapp2.1\Aula42Problema.pdb
