@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\bin\Debug\netcoreapp2.1\OperadoresDeATribuicao.deps.json
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\bin\Debug\netcoreapp2.1\OperadoresDeATribuicao.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\bin\Debug\netcoreapp2.1\OperadoresDeATribuicao.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\bin\Debug\netcoreapp2.1\OperadoresDeATribuicao.dll
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\bin\Debug\netcoreapp2.1\OperadoresDeATribuicao.pdb
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\obj\Debug\netcoreapp2.1\OperadoresDeATribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\obj\Debug\netcoreapp2.1\OperadoresDeATribuicao.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\obj\Debug\netcoreapp2.1\OperadoresDeATribuicao.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\obj\Debug\netcoreapp2.1\OperadoresDeATribuicao.dll
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\obj\Debug\netcoreapp2.1\OperadoresDeATribuicao.pdb
+C:\Users\Cleyton.peters\source\repos\OperadoresDeATribuicao\OperadoresDeATribuicao\obj\Debug\netcoreapp2.1\OperadoresDeATribuicao.csprojAssemblyReference.cache

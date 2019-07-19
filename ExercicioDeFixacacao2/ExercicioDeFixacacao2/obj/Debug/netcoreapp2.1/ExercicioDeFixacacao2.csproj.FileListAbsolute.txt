@@ -1,0 +1,10 @@
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\bin\Debug\netcoreapp2.1\ExercicioDeFixacacao2.deps.json
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\bin\Debug\netcoreapp2.1\ExercicioDeFixacacao2.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\bin\Debug\netcoreapp2.1\ExercicioDeFixacacao2.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\bin\Debug\netcoreapp2.1\ExercicioDeFixacacao2.dll
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\bin\Debug\netcoreapp2.1\ExercicioDeFixacacao2.pdb
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\obj\Debug\netcoreapp2.1\ExercicioDeFixacacao2.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\obj\Debug\netcoreapp2.1\ExercicioDeFixacacao2.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\obj\Debug\netcoreapp2.1\ExercicioDeFixacacao2.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\obj\Debug\netcoreapp2.1\ExercicioDeFixacacao2.dll
+C:\Users\Cleyton.peters\source\repos\ExercicioDeFixacacao2\ExercicioDeFixacacao2\obj\Debug\netcoreapp2.1\ExercicioDeFixacacao2.pdb

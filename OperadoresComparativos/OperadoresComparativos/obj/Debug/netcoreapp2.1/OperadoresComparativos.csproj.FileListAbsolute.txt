@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp2.1\OperadoresComparativos.deps.json
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp2.1\OperadoresComparativos.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp2.1\OperadoresComparativos.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp2.1\OperadoresComparativos.dll
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp2.1\OperadoresComparativos.pdb
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp2.1\OperadoresComparativos.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp2.1\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp2.1\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp2.1\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp2.1\OperadoresComparativos.dll
+C:\Users\Cleyton.peters\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp2.1\OperadoresComparativos.pdb

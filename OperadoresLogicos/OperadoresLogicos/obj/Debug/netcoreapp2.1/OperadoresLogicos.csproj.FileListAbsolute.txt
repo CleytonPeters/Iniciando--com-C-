@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp2.1\OperadoresLogicos.deps.json
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp2.1\OperadoresLogicos.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp2.1\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp2.1\OperadoresLogicos.dll
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp2.1\OperadoresLogicos.pdb
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp2.1\OperadoresLogicos.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp2.1\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp2.1\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp2.1\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp2.1\OperadoresLogicos.dll
+C:\Users\Cleyton.peters\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp2.1\OperadoresLogicos.pdb

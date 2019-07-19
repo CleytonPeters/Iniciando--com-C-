@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.deps.json
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.dll
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.pdb
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.dll
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoFor\EstruturaDeRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoFor.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp2.1\EntradaDeDados2.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp2.1\EntradaDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp2.1\EntradaDeDados2.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp2.1\EntradaDeDados2.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp2.1\EntradaDeDados2.deps.json
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp2.1\EntradaDeDados2.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp2.1\EntradaDeDados2.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp2.1\EntradaDeDados2.dll
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp2.1\EntradaDeDados2.pdb
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp2.1\EntradaDeDados2.dll
+C:\Users\Cleyton.peters\source\repos\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp2.1\EntradaDeDados2.pdb

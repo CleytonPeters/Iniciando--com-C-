@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.deps.json
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.dll
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\bin\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.pdb
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.dll
+C:\Users\Cleyton.peters\source\repos\EstruturaDeRepeticaoWhile\EstruturaDeRepeticaoWhile\obj\Debug\netcoreapp2.1\EstruturaDeRepeticaoWhile.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\obj\Debug\netcoreapp2.1\PrimeiroProjetoOOP.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\obj\Debug\netcoreapp2.1\PrimeiroProjetoOOP.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\obj\Debug\netcoreapp2.1\PrimeiroProjetoOOP.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\obj\Debug\netcoreapp2.1\PrimeiroProjetoOOP.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\bin\Debug\netcoreapp2.1\PrimeiroProjetoOOP.deps.json
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\bin\Debug\netcoreapp2.1\PrimeiroProjetoOOP.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\bin\Debug\netcoreapp2.1\PrimeiroProjetoOOP.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\bin\Debug\netcoreapp2.1\PrimeiroProjetoOOP.dll
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\bin\Debug\netcoreapp2.1\PrimeiroProjetoOOP.pdb
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\obj\Debug\netcoreapp2.1\PrimeiroProjetoOOP.dll
+C:\Users\Cleyton.peters\source\repos\PrimeiroProjetoOOP\PrimeiroProjetoOOP\obj\Debug\netcoreapp2.1\PrimeiroProjetoOOP.pdb
