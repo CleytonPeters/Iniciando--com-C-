@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\obj\Debug\netcoreapp2.1\ExercicioFixacaoAula45.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\obj\Debug\netcoreapp2.1\ExercicioFixacaoAula45.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\obj\Debug\netcoreapp2.1\ExercicioFixacaoAula45.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\obj\Debug\netcoreapp2.1\ExercicioFixacaoAula45.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\bin\Debug\netcoreapp2.1\ExercicioFixacaoAula45.deps.json
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\bin\Debug\netcoreapp2.1\ExercicioFixacaoAula45.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\bin\Debug\netcoreapp2.1\ExercicioFixacaoAula45.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\bin\Debug\netcoreapp2.1\ExercicioFixacaoAula45.dll
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\bin\Debug\netcoreapp2.1\ExercicioFixacaoAula45.pdb
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\obj\Debug\netcoreapp2.1\ExercicioFixacaoAula45.dll
+C:\Users\Cleyton.peters\source\repos\ExercicioFixacaoAula45\ExercicioFixacaoAula45\obj\Debug\netcoreapp2.1\ExercicioFixacaoAula45.pdb

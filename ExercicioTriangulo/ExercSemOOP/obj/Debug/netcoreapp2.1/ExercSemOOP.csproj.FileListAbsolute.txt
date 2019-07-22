@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercSemOOP.deps.json
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercSemOOP.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercSemOOP.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercSemOOP.dll
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercSemOOP.pdb
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercSemOOP.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercSemOOP.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercSemOOP.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercSemOOP.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercSemOOP.dll
+C:\Users\Cleyton.peters\source\repos\ExercSemOOP\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercSemOOP.pdb

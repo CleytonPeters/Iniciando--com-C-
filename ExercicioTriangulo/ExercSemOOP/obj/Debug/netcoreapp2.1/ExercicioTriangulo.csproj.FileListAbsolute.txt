@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercicioTriangulo.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercicioTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercicioTriangulo.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercicioTriangulo.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercicioTriangulo.deps.json
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercicioTriangulo.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercicioTriangulo.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercicioTriangulo.dll
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\bin\Debug\netcoreapp2.1\ExercicioTriangulo.pdb
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercicioTriangulo.dll
+C:\Users\Cleyton.peters\source\repos\ExercicioTriangulo\ExercSemOOP\obj\Debug\netcoreapp2.1\ExercicioTriangulo.pdb
