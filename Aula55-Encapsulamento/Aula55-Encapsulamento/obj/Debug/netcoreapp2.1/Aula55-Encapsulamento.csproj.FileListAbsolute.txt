@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\bin\Debug\netcoreapp2.1\Aula55-Encapsulamento.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\bin\Debug\netcoreapp2.1\Aula55-Encapsulamento.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\bin\Debug\netcoreapp2.1\Aula55-Encapsulamento.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\bin\Debug\netcoreapp2.1\Aula55-Encapsulamento.dll
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\bin\Debug\netcoreapp2.1\Aula55-Encapsulamento.pdb
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\obj\Debug\netcoreapp2.1\Aula55-Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\obj\Debug\netcoreapp2.1\Aula55-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\obj\Debug\netcoreapp2.1\Aula55-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\obj\Debug\netcoreapp2.1\Aula55-Encapsulamento.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\obj\Debug\netcoreapp2.1\Aula55-Encapsulamento.dll
+C:\Users\Cleyton.peters\source\repos\Aula55-Encapsulamento\Aula55-Encapsulamento\obj\Debug\netcoreapp2.1\Aula55-Encapsulamento.pdb

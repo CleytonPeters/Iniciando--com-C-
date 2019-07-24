@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\obj\Debug\netcoreapp2.1\MembrosEstaticosAula46.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\obj\Debug\netcoreapp2.1\MembrosEstaticosAula46.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\obj\Debug\netcoreapp2.1\MembrosEstaticosAula46.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\obj\Debug\netcoreapp2.1\MembrosEstaticosAula46.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\bin\Debug\netcoreapp2.1\MembrosEstaticosAula46.deps.json
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\bin\Debug\netcoreapp2.1\MembrosEstaticosAula46.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\bin\Debug\netcoreapp2.1\MembrosEstaticosAula46.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\bin\Debug\netcoreapp2.1\MembrosEstaticosAula46.dll
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\bin\Debug\netcoreapp2.1\MembrosEstaticosAula46.pdb
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\obj\Debug\netcoreapp2.1\MembrosEstaticosAula46.dll
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosAula46\MembrosEstaticosAula46\obj\Debug\netcoreapp2.1\MembrosEstaticosAula46.pdb

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+
 namespace Aula42Problema {
     class Produto {
 
@@ -13,12 +15,21 @@ namespace Aula42Problema {
         }
         public void AdicionaProduto(int quantity) {
             Quantidade += quantity;
-            ValorTotalEmEstoque();
         }
         public void RemoveProduto(int quantity) {
             Quantidade -= quantity;
-            ValorTotalEmEstoque();
         }
+
+        public override string ToString() {  //sobrescreve
+            return Nome
+                + ", $ " 
+                + Preco.ToString("F2", CultureInfo.InvariantCulture) 
+                + ", "
+                + Quantidade  
+                + " unidades, Total: $" 
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+        }
+
 
 
     }

@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\bin\Debug\netcoreapp2.1\MembrosEstaticosParte2.deps.json
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\bin\Debug\netcoreapp2.1\MembrosEstaticosParte2.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\bin\Debug\netcoreapp2.1\MembrosEstaticosParte2.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\bin\Debug\netcoreapp2.1\MembrosEstaticosParte2.dll
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\bin\Debug\netcoreapp2.1\MembrosEstaticosParte2.pdb
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\obj\Debug\netcoreapp2.1\MembrosEstaticosParte2.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\obj\Debug\netcoreapp2.1\MembrosEstaticosParte2.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\obj\Debug\netcoreapp2.1\MembrosEstaticosParte2.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\obj\Debug\netcoreapp2.1\MembrosEstaticosParte2.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\obj\Debug\netcoreapp2.1\MembrosEstaticosParte2.dll
+C:\Users\Cleyton.peters\source\repos\MembrosEstaticosParte2\MembrosEstaticosParte2\obj\Debug\netcoreapp2.1\MembrosEstaticosParte2.pdb

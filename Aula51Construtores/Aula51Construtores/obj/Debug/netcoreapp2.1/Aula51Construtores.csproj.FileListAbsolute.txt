@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp2.1\Aula51Construtores.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp2.1\Aula51Construtores.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp2.1\Aula51Construtores.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp2.1\Aula51Construtores.dll
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp2.1\Aula51Construtores.pdb
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp2.1\Aula51Construtores.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp2.1\Aula51Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp2.1\Aula51Construtores.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp2.1\Aula51Construtores.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp2.1\Aula51Construtores.dll
+C:\Users\Cleyton.peters\source\repos\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp2.1\Aula51Construtores.pdb
