@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\bin\Debug\netcoreapp2.1\Aula70-Vetores.deps.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\bin\Debug\netcoreapp2.1\Aula70-Vetores.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\bin\Debug\netcoreapp2.1\Aula70-Vetores.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\bin\Debug\netcoreapp2.1\Aula70-Vetores.dll
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\bin\Debug\netcoreapp2.1\Aula70-Vetores.pdb
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\obj\Debug\netcoreapp2.1\Aula70-Vetores.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\obj\Debug\netcoreapp2.1\Aula70-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\obj\Debug\netcoreapp2.1\Aula70-Vetores.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\obj\Debug\netcoreapp2.1\Aula70-Vetores.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\obj\Debug\netcoreapp2.1\Aula70-Vetores.dll
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula70-Vetores\Aula70-Vetores\obj\Debug\netcoreapp2.1\Aula70-Vetores.pdb

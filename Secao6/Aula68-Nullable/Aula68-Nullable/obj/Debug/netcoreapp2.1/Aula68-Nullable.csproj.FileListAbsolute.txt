@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\bin\Debug\netcoreapp2.1\Aula68-Nullable.deps.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\bin\Debug\netcoreapp2.1\Aula68-Nullable.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\bin\Debug\netcoreapp2.1\Aula68-Nullable.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\bin\Debug\netcoreapp2.1\Aula68-Nullable.dll
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\bin\Debug\netcoreapp2.1\Aula68-Nullable.pdb
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\obj\Debug\netcoreapp2.1\Aula68-Nullable.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\obj\Debug\netcoreapp2.1\Aula68-Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\obj\Debug\netcoreapp2.1\Aula68-Nullable.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\obj\Debug\netcoreapp2.1\Aula68-Nullable.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\obj\Debug\netcoreapp2.1\Aula68-Nullable.dll
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula68-Nullable\Aula68-Nullable\obj\Debug\netcoreapp2.1\Aula68-Nullable.pdb

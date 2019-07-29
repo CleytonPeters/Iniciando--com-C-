@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\bin\Debug\netcoreapp2.1\Aula66TipoReferencia.deps.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\bin\Debug\netcoreapp2.1\Aula66TipoReferencia.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\bin\Debug\netcoreapp2.1\Aula66TipoReferencia.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\bin\Debug\netcoreapp2.1\Aula66TipoReferencia.dll
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\bin\Debug\netcoreapp2.1\Aula66TipoReferencia.pdb
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\obj\Debug\netcoreapp2.1\Aula66TipoReferencia.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\obj\Debug\netcoreapp2.1\Aula66TipoReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\obj\Debug\netcoreapp2.1\Aula66TipoReferencia.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\obj\Debug\netcoreapp2.1\Aula66TipoReferencia.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\obj\Debug\netcoreapp2.1\Aula66TipoReferencia.dll
+C:\Users\Cleyton.peters\source\repos\Secao6\Aula66TipoReferencia\Aula66TipoReferencia\obj\Debug\netcoreapp2.1\Aula66TipoReferencia.pdb

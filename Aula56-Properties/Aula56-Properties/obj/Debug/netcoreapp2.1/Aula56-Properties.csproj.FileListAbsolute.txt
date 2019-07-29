@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\bin\Debug\netcoreapp2.1\Aula56-Properties.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\bin\Debug\netcoreapp2.1\Aula56-Properties.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\bin\Debug\netcoreapp2.1\Aula56-Properties.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\bin\Debug\netcoreapp2.1\Aula56-Properties.dll
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\bin\Debug\netcoreapp2.1\Aula56-Properties.pdb
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\obj\Debug\netcoreapp2.1\Aula56-Properties.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\obj\Debug\netcoreapp2.1\Aula56-Properties.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\obj\Debug\netcoreapp2.1\Aula56-Properties.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\obj\Debug\netcoreapp2.1\Aula56-Properties.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\obj\Debug\netcoreapp2.1\Aula56-Properties.dll
+C:\Users\Cleyton.peters\source\repos\Aula56-Properties\Aula56-Properties\obj\Debug\netcoreapp2.1\Aula56-Properties.pdb

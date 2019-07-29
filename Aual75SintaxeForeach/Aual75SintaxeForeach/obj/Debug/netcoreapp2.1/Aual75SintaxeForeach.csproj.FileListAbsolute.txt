@@ -1,0 +1,10 @@
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\obj\Debug\netcoreapp2.1\Aual75SintaxeForeach.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\obj\Debug\netcoreapp2.1\Aual75SintaxeForeach.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\obj\Debug\netcoreapp2.1\Aual75SintaxeForeach.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\bin\Debug\netcoreapp2.1\Aual75SintaxeForeach.deps.json
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\bin\Debug\netcoreapp2.1\Aual75SintaxeForeach.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\bin\Debug\netcoreapp2.1\Aual75SintaxeForeach.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\bin\Debug\netcoreapp2.1\Aual75SintaxeForeach.dll
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\bin\Debug\netcoreapp2.1\Aual75SintaxeForeach.pdb
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\obj\Debug\netcoreapp2.1\Aual75SintaxeForeach.dll
+C:\Users\Cleyton.peters\source\repos\Aual75SintaxeForeach\Aual75SintaxeForeach\obj\Debug\netcoreapp2.1\Aual75SintaxeForeach.pdb

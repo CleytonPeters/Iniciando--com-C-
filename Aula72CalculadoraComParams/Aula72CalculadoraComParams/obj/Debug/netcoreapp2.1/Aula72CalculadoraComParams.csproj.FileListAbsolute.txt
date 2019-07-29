@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\bin\Debug\netcoreapp2.1\Aula72CalculadoraComParams.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\bin\Debug\netcoreapp2.1\Aula72CalculadoraComParams.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\bin\Debug\netcoreapp2.1\Aula72CalculadoraComParams.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\bin\Debug\netcoreapp2.1\Aula72CalculadoraComParams.dll
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\bin\Debug\netcoreapp2.1\Aula72CalculadoraComParams.pdb
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\obj\Debug\netcoreapp2.1\Aula72CalculadoraComParams.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\obj\Debug\netcoreapp2.1\Aula72CalculadoraComParams.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\obj\Debug\netcoreapp2.1\Aula72CalculadoraComParams.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\obj\Debug\netcoreapp2.1\Aula72CalculadoraComParams.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\obj\Debug\netcoreapp2.1\Aula72CalculadoraComParams.dll
+C:\Users\Cleyton.peters\source\repos\Aula72CalculadoraComParams\Aula72CalculadoraComParams\obj\Debug\netcoreapp2.1\Aula72CalculadoraComParams.pdb

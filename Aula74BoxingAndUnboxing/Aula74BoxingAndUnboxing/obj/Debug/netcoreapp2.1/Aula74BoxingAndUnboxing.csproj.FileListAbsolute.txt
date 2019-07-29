@@ -1,0 +1,10 @@
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\bin\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\bin\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\bin\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\bin\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.dll
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\bin\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.pdb
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\obj\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\obj\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\obj\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\obj\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.dll
+C:\Users\Cleyton.peters\source\repos\Aula74BoxingAndUnboxing\Aula74BoxingAndUnboxing\obj\Debug\netcoreapp2.1\Aula74BoxingAndUnboxing.pdb

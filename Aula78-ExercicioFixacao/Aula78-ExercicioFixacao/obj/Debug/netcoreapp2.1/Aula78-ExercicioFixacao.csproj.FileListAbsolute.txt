@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.dll
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.pdb
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.dll
+C:\Users\Cleyton.peters\source\repos\Aula78-ExercicioFixacao\Aula78-ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula78-ExercicioFixacao.pdb

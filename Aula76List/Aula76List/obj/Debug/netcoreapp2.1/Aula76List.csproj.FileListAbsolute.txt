@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\bin\Debug\netcoreapp2.1\Aula76List.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\bin\Debug\netcoreapp2.1\Aula76List.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\bin\Debug\netcoreapp2.1\Aula76List.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\bin\Debug\netcoreapp2.1\Aula76List.dll
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\bin\Debug\netcoreapp2.1\Aula76List.pdb
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\obj\Debug\netcoreapp2.1\Aula76List.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\obj\Debug\netcoreapp2.1\Aula76List.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\obj\Debug\netcoreapp2.1\Aula76List.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\obj\Debug\netcoreapp2.1\Aula76List.dll
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\obj\Debug\netcoreapp2.1\Aula76List.pdb
+C:\Users\Cleyton.peters\source\repos\Aula76List\Aula76List\obj\Debug\netcoreapp2.1\Aula76List.csprojAssemblyReference.cache
