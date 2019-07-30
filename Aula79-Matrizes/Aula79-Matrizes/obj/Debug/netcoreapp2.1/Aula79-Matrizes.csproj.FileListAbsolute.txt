@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\bin\Debug\netcoreapp2.1\Aula79-Matrizes.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\bin\Debug\netcoreapp2.1\Aula79-Matrizes.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\bin\Debug\netcoreapp2.1\Aula79-Matrizes.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\bin\Debug\netcoreapp2.1\Aula79-Matrizes.dll
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\bin\Debug\netcoreapp2.1\Aula79-Matrizes.pdb
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\obj\Debug\netcoreapp2.1\Aula79-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\obj\Debug\netcoreapp2.1\Aula79-Matrizes.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\obj\Debug\netcoreapp2.1\Aula79-Matrizes.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\obj\Debug\netcoreapp2.1\Aula79-Matrizes.dll
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\obj\Debug\netcoreapp2.1\Aula79-Matrizes.pdb
+C:\Users\Cleyton.peters\source\repos\Aula79-Matrizes\Aula79-Matrizes\obj\Debug\netcoreapp2.1\Aula79-Matrizes.csprojAssemblyReference.cache

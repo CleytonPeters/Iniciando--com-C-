@@ -6,8 +6,9 @@ namespace Aula78_ExercicioFixacao {
         public string Name;
         public double Salary;
 
-
-
+        public void IncreaseSalary(double percentage) {
+            Salary += ((Salary * percentage) / 100);
+        }        
         public override string ToString() {
             return Id
                 + ", "
