@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\bin\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\bin\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\bin\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\bin\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.dll
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\bin\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.pdb
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\obj\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\obj\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\obj\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\obj\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\obj\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.dll
+C:\Users\Cleyton.peters\source\repos\Aula92-PropriedadesDateTime\Aula92-PropriedadesDateTime\obj\Debug\netcoreapp2.1\Aula92-PropriedadesDateTime.pdb

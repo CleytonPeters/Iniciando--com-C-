@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\bin\Debug\netcoreapp2.1\Aula89-FuncoesParaString.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\bin\Debug\netcoreapp2.1\Aula89-FuncoesParaString.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\bin\Debug\netcoreapp2.1\Aula89-FuncoesParaString.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\bin\Debug\netcoreapp2.1\Aula89-FuncoesParaString.dll
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\bin\Debug\netcoreapp2.1\Aula89-FuncoesParaString.pdb
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\obj\Debug\netcoreapp2.1\Aula89-FuncoesParaString.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\obj\Debug\netcoreapp2.1\Aula89-FuncoesParaString.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\obj\Debug\netcoreapp2.1\Aula89-FuncoesParaString.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\obj\Debug\netcoreapp2.1\Aula89-FuncoesParaString.dll
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\obj\Debug\netcoreapp2.1\Aula89-FuncoesParaString.pdb
+C:\Users\Cleyton.peters\source\repos\Aula89-FuncoesParaString\Aula89-FuncoesParaString\obj\Debug\netcoreapp2.1\Aula89-FuncoesParaString.csprojAssemblyReference.cache

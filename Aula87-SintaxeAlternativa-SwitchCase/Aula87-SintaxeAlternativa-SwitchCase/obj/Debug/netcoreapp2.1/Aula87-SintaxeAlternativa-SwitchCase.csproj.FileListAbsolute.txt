@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\obj\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\obj\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\obj\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\obj\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\bin\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\bin\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\bin\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\bin\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.dll
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\bin\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.pdb
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\obj\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.dll
+C:\Users\Cleyton.peters\source\repos\Aula87-SintaxeAlternativa-SwitchCase\Aula87-SintaxeAlternativa-SwitchCase\obj\Debug\netcoreapp2.1\Aula87-SintaxeAlternativa-SwitchCase.pdb

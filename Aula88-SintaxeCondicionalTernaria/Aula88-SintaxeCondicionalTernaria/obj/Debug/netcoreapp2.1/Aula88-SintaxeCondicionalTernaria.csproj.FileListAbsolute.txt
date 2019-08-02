@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\bin\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\bin\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\bin\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\bin\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.dll
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\bin\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.pdb
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\obj\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\obj\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\obj\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\obj\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\obj\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.dll
+C:\Users\Cleyton.peters\source\repos\Aula88-SintaxeCondicionalTernaria\Aula88-SintaxeCondicionalTernaria\obj\Debug\netcoreapp2.1\Aula88-SintaxeCondicionalTernaria.pdb

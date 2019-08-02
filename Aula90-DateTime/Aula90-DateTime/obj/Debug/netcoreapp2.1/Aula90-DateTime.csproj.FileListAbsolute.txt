@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\bin\Debug\netcoreapp2.1\Aula90-DateTime.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\bin\Debug\netcoreapp2.1\Aula90-DateTime.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\bin\Debug\netcoreapp2.1\Aula90-DateTime.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\bin\Debug\netcoreapp2.1\Aula90-DateTime.dll
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\bin\Debug\netcoreapp2.1\Aula90-DateTime.pdb
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\obj\Debug\netcoreapp2.1\Aula90-DateTime.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\obj\Debug\netcoreapp2.1\Aula90-DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\obj\Debug\netcoreapp2.1\Aula90-DateTime.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\obj\Debug\netcoreapp2.1\Aula90-DateTime.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\obj\Debug\netcoreapp2.1\Aula90-DateTime.dll
+C:\Users\Cleyton.peters\source\repos\Aula90-DateTime\Aula90-DateTime\obj\Debug\netcoreapp2.1\Aula90-DateTime.pdb

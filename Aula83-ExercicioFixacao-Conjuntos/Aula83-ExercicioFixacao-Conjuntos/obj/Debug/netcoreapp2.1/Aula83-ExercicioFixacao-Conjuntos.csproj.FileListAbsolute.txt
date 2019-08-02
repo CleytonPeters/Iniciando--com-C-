@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\bin\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\bin\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\bin\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\bin\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.dll
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\bin\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.pdb
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\obj\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\obj\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\obj\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\obj\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\obj\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.dll
+C:\Users\Cleyton.peters\source\repos\Aula83-ExercicioFixacao-Conjuntos\Aula83-ExercicioFixacao-Conjuntos\obj\Debug\netcoreapp2.1\Aula83-ExercicioFixacao-Conjuntos.pdb

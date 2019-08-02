@@ -1,0 +1,10 @@
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\bin\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\bin\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\bin\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\bin\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.dll
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\bin\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.pdb
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\obj\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\obj\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\obj\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\obj\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.dll
+C:\Users\Cleyton.peters\source\repos\Aula86-InferenciaTipoVar\Aula86-InferenciaTipoVar\obj\Debug\netcoreapp2.1\Aula86-InferenciaTipoVar.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula89-FuncoesParaString", "Aula89-FuncoesParaString\Aula89-FuncoesParaString.csproj", "{6AC3406A-25A0-40AB-9B5B-7FABCBED95DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC3406A-25A0-40AB-9B5B-7FABCBED95DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC3406A-25A0-40AB-9B5B-7FABCBED95DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC3406A-25A0-40AB-9B5B-7FABCBED95DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC3406A-25A0-40AB-9B5B-7FABCBED95DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F11542-A75E-4B1C-A6B1-065D54D6ADD2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\bin\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\bin\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\bin\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\bin\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.dll
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\bin\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.pdb
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\obj\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.csprojAssemblyReference.cache
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\obj\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\obj\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\obj\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\obj\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.dll
+C:\Users\Cleyton.peters\source\repos\Aula82-HashSetConjuntos\Aula82-HashSetConjuntos\obj\Debug\netcoreapp2.1\Aula82-HashSetConjuntos.pdb

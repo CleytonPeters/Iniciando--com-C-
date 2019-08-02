@@ -1,0 +1,10 @@
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\bin\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.deps.json
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\bin\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.runtimeconfig.json
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\bin\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.runtimeconfig.dev.json
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\bin\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.dll
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\bin\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.pdb
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\obj\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\obj\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\obj\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.AssemblyInfo.cs
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\obj\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.dll
+C:\Users\Cleyton.peters\source\repos\Aula93-PropriedadesTimeSpan\Aula93-PropriedadesTimeSpan\obj\Debug\netcoreapp2.1\Aula93-PropriedadesTimeSpan.pdb
