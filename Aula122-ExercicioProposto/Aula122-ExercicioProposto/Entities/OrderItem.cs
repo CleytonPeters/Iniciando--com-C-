@@ -9,45 +9,33 @@ namespace Aula122_ExercicioProposto.Entities
         public int Quantity { get; set; }
         public double Price { get; set; }
 
-        public List<Product> Products { get; set; } = new List<Product>();
+        public Product Product { get; set; }
 
         public OrderItem()
         {
 
         }
-        public OrderItem(int quantity, double price)
+
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
             Price = price;
+            Product = product;
         }
 
-        public void AddProduct(string name, double price)
-        {
-            Products.Add(new Product(name, price));
-        }
         public double SubTotal()
         {
             return Quantity * Price;
         }
-
-        double sum = 0;
         public override string ToString()
         {
-            StringBuilder str = new StringBuilder();
-            str.Append(Products);
-            str.Append(", ");
-            str.Append(Quantity);
-            str.Append(", ");
-            foreach(Product x in Products)
-            {
-                str.Append("Subtotal: " + SubTotal().ToString("F2", CultureInfo.InvariantCulture));
-                sum += SubTotal();
-            }
-            str.Append("Total Price: " + sum);
-            return str.ToString();
-
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantity: "
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
         }
-
-
     }
 }
