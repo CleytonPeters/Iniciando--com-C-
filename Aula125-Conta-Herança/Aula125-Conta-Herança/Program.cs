@@ -21,7 +21,15 @@ namespace Aula125_Conta_Herança
             //DOWNCASTING   
 
             BusinessAccount bacc1 = (BusinessAccount)acc2;
-          
+
+            Console.WriteLine("\n\n");
+
+            Account acc4 = new Account(123, "Alex", 500.00);
+            Account acc5 = new SavingsAccount(244, "Poupanca Alex", 500.00, 0.1);
+            acc4.Withdraw(10.0);
+            acc5.Withdraw(10.0);
+            Console.WriteLine(acc4.Balance);
+            Console.WriteLine(acc5.Balance);
 
 
 
