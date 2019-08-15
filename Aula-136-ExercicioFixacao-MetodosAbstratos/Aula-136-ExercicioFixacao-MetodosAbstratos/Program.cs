@@ -36,16 +36,21 @@ namespace Aula_136_ExercicioFixacao_MetodosAbstratos
 
 
             }
-
-            Console.WriteLine("TAXES PAID: ");
-            double sum = 0;
-            foreach (Contributor total in contributor)
+            try
             {
-                Console.WriteLine(total.Name + ": $ " + total.Taxes().ToString("F2", CultureInfo.InvariantCulture));
-                sum += total.Taxes();
+                Console.WriteLine("TAXES PAID: ");
+                double sum = 0;
+                foreach (Contributor total in contributor)
+                {
+                    Console.WriteLine(total.Name + ": $ " + total.Taxes().ToString("F2", CultureInfo.InvariantCulture));
+                    sum += total.Taxes();
+                }
+                Console.WriteLine("TOTAL TAXES: " + sum.ToString("F2", CultureInfo.InvariantCulture));
             }
-            Console.WriteLine("TOTAL TAXES: " + sum.ToString("F2", CultureInfo.InvariantCulture));
+            catch (Exception e)
+            {
 
+            }
         }
     }
 }

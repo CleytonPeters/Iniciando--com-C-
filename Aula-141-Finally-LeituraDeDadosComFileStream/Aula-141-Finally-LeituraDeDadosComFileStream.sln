@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-141-Finally-LeituraDeDadosComFileStream", "Aula-141-Finally-LeituraDeDadosComFileStream\Aula-141-Finally-LeituraDeDadosComFileStream.csproj", "{95392296-8D83-4E58-BEA0-B7DC174D8702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95392296-8D83-4E58-BEA0-B7DC174D8702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95392296-8D83-4E58-BEA0-B7DC174D8702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95392296-8D83-4E58-BEA0-B7DC174D8702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95392296-8D83-4E58-BEA0-B7DC174D8702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D6E690-9418-40C9-B87F-928C60BB8EE2}
+	EndGlobalSection
+EndGlobal
